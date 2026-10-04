@@ -1,8 +1,13 @@
 ## 🎓 Education
 
-- **세종대학교** | 인공지능데이터사이언스학과 `2026.03 - ing`
+- **세종대학교** | 인공지능데이터사이언스학과 `2026.03 - Present`
 
 ## 🏆 Awards
 
-- **한국경제신문 × 세종대학교 에델바이스 아이디어톤** | 대상 `2026.10`
-- **세종대학교 × Upstage 연계 학술제** | 대상 `2026.07`
+- **한국경제신문 × 세종대학교 에델바이스 아이디어톤** | **대상** `2026.10`
+- **세종대학교 × Upstage 연계 학술제** | **대상** `2026.07`
+
+## 📫 Contact
+
+- **University** | [an@sju.ac.kr](mailto:an@sju.ac.kr)
+- **Personal** | [ahncelotti@gmail.com](mailto:ahncelotti@gmail.com)
